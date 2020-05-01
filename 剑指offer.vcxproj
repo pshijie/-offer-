@@ -98,6 +98,10 @@
     <ClCompile Include="18-删除链表的重复节点2.cpp" />
     <ClCompile Include="19-正则表达式匹配.cpp" />
     <ClCompile Include="20-表示数值的字符串.cpp" />
+    <ClCompile Include="21-调整数组顺序使奇数位于偶数前.cpp" />
+    <ClCompile Include="22-链表中倒数第K个节点.cpp" />
+    <ClCompile Include="23-链表中环的入口节点.cpp" />
+    <ClCompile Include="24-反转链表.cpp" />
     <ClCompile Include="List.cpp" />
     <ClCompile Include="BinaryTree.cpp" />
   </ItemGroup>
