@@ -105,6 +105,15 @@
     <ClCompile Include="28-对称的二叉树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="29-顺时针打印矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30-包含min函数的栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31-栈的压入、弹出序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h">
@@ -114,6 +123,9 @@
       <Filter>源文件</Filter>
     </ClInclude>
     <ClInclude Include="queue.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StackWithMin.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>
