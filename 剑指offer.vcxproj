@@ -109,6 +109,10 @@
     <ClCompile Include="29-顺时针打印矩阵.cpp" />
     <ClCompile Include="30-包含min函数的栈.cpp" />
     <ClCompile Include="31-栈的压入、弹出序列.cpp" />
+    <ClCompile Include="32-之字形打印二叉树03.cpp" />
+    <ClCompile Include="32-从上到下打印二叉树01.cpp" />
+    <ClCompile Include="32-分行从上到下打印二叉树02.cpp" />
+    <ClCompile Include="33-二叉树搜索树的后序遍历序列.cpp" />
     <ClCompile Include="List.cpp" />
     <ClCompile Include="BinaryTree.cpp" />
   </ItemGroup>

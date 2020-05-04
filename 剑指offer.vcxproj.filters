@@ -114,6 +114,15 @@
     <ClCompile Include="31-栈的压入、弹出序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="32-从上到下打印二叉树01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32-分行从上到下打印二叉树02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32-之字形打印二叉树03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h">
