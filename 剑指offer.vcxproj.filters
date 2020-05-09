@@ -144,6 +144,15 @@
     <ClCompile Include="38-字符串的排列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="39-数组中出现次数超过一半的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40-最小的k个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h">
@@ -159,6 +168,9 @@
       <Filter>源文件</Filter>
     </ClInclude>
     <ClInclude Include="ComplexList.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Array.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -118,11 +118,15 @@
     <ClCompile Include="36-二叉搜索树与双向链表.cpp" />
     <ClCompile Include="37-序列化二叉树.cpp" />
     <ClCompile Include="38-字符串的排列.cpp" />
+    <ClCompile Include="39-数组中出现次数超过一半的数字.cpp" />
+    <ClCompile Include="40-最小的k个数.cpp" />
+    <ClCompile Include="Array.cpp" />
     <ClCompile Include="ComplexList.cpp" />
     <ClCompile Include="List.cpp" />
     <ClCompile Include="BinaryTree.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Array.h" />
     <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="ComplexList.h" />
     <ClInclude Include="List.h" />
