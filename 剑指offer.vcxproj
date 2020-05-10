@@ -120,6 +120,9 @@
     <ClCompile Include="38-字符串的排列.cpp" />
     <ClCompile Include="39-数组中出现次数超过一半的数字.cpp" />
     <ClCompile Include="40-最小的k个数.cpp" />
+    <ClCompile Include="41-数据流中的中位数.cpp" />
+    <ClCompile Include="42-连续子数组的最大和.cpp" />
+    <ClCompile Include="43-1-n整数中1出现的次数.cpp" />
     <ClCompile Include="Array.cpp" />
     <ClCompile Include="ComplexList.cpp" />
     <ClCompile Include="List.cpp" />

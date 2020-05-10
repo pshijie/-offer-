@@ -153,6 +153,15 @@
     <ClCompile Include="40-最小的k个数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="41-数据流中的中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42-连续子数组的最大和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43-1-n整数中1出现的次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h">
