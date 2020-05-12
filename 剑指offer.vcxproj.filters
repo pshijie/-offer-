@@ -162,6 +162,12 @@
     <ClCompile Include="43-1-n整数中1出现的次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="44-数字序列中某一位的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45-把数组排成最小的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h">
