@@ -125,6 +125,10 @@
     <ClCompile Include="43-1-n整数中1出现的次数.cpp" />
     <ClCompile Include="44-数字序列中某一位的数字.cpp" />
     <ClCompile Include="45-把数组排成最小的数.cpp" />
+    <ClCompile Include="46-b把数字翻译为字符串.cpp" />
+    <ClCompile Include="47-礼物的最大值.cpp" />
+    <ClCompile Include="48-最长不含重复字符的子字符串.cpp" />
+    <ClCompile Include="49-丑数.cpp" />
     <ClCompile Include="Array.cpp" />
     <ClCompile Include="ComplexList.cpp" />
     <ClCompile Include="List.cpp" />

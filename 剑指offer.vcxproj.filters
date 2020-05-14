@@ -168,6 +168,18 @@
     <ClCompile Include="45-把数组排成最小的数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="46-b把数字翻译为字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47-礼物的最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48-最长不含重复字符的子字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49-丑数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h">
